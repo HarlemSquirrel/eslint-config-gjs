@@ -12,10 +12,11 @@
     "url": "git+https://github.com/HarlemSquirrel/eslint-config-gjs.git"
   },
   "keywords": [
-    "eslint",
     "config",
-    "gnome",
-    "gjs"
+    "eslint",
+    "eslintconfig",
+    "gjs",
+    "gnome"
   ],
   "author": "Kevin McCormack <HarlemSquirrel@gmail.com> (http://HarlemSquirrel.github.io)",
   "license": "ISC",
